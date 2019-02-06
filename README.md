@@ -65,7 +65,13 @@
 
 A collection of full-stack resources for programmers.
 
-The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have been become timeless classics.
+The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+
+This page is not meant to be comprehensive. I am trying to keep it light and not too overwhelming. The selection of articles is opinionated.
+
+## Contributing to this list
+
+Feel free to open a PR to contribute! I will not be adding everything: as stated above, I am trying to keep the list concise.
 
 ## Must read books
 
@@ -121,7 +127,7 @@ Let's be honest: algo can be a pretty dry topic. [This quora question](https://w
 * [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 * [The tao of programming](http://www.mit.edu/~xela/tao.html): a set of parables about programming.
 * [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
-* [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.4i2t1z6q2)
+* [Finding Time to Become a Better Developer](https://medium.freecodecamp.org/finding-time-to-become-a-better-developer-eebc154881b2)
 
 ### Automation
 
@@ -146,7 +152,6 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
 ### Coding & code quality
 
 * [Write code that is easy to delete, not easy to extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-* [Lessons learned writing highly available code](https://medium.com/imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00#.u7c4j6hac)
 * [The Ten Commandments of Egoless Programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) 📖, Robert C. Martin. Describes numerous useful best practices. A bit long. There's also a [clean code cheatsheet](cheatsheets/Clean-Code-V2.4.pdf).
 
@@ -276,7 +281,7 @@ The best way to learn is to learn by doing.
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#heading=h.fs3knmjt7fjy)
-* A great example of [notes taken during outage](https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub) and [postmortem from Gitlab (01/31/2017)](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/). This one's a tricky one because an engineer's action caused the irremediable loss of 6 hours of data.
+* A great example of a [postmortem from Gitlab (01/31/2017)](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/) for an outage during which an engineer's action caused the irremediable loss of 6 hours of data.
 
 ### Internet
 
@@ -328,7 +333,7 @@ See [Project management section on my engineering-management list of resources](
 
 I would recommend learning:
 
-* JavaScript and may be one other interpreted language (Python, Ruby, etc.). Interpreted languages are useful for quick one-off automation scripts, and fastest to write for interviews.
+* JavaScript and maybe another interpreted language (Python, Ruby, etc.). Interpreted languages are useful for quick one-off automation scripts, and fastest to write for interviews. JavaScript is ubiquitous.
 * A compiled language (Java, C, C++...).
 * A more recent language to see where the industry is going (as of writing, Go, Swift, Rust, Elixir...).
 * A language that has first-class support for functional programming (Haskell, Scala, Clojure...).
@@ -388,7 +393,7 @@ Rob Pike, [Go at Google: Language Design in the Service of Software Engineering]
 * [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#http--https-webserver-enumeration)
 * [My First 10 Minutes On a Server - Primer for Securing Ubuntu](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * [A practical guide to securing macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-* [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+* [Web Developer Security Checklist](https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html)
 * [Reckon you've seen some stupid security things?](https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/): everything *not* to do.
 
 ### Shell
@@ -433,6 +438,7 @@ Rob Pike, [Go at Google: Language Design in the Service of Software Engineering]
 ### Site Reliability Engineering (SRE)
 
 * [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b): a great collection of resources to learn about SRE.
+* [Site Reliability Engineering](https://landing.google.com/sre/books/): written by members of Google's SRE team, with a comprehensive analysis of the entire software lifecycle - how to build, deploy, monitor, and maintain large scale systems.
 
 ### Testing
 
